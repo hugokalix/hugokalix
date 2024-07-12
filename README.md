@@ -42,7 +42,7 @@ Olá 👋 Eu sou Hugo Kalixto, estudante de programação no Senai Bras
 
 ## 🔥Skills!
 
-<a href="https://github.com/VariableBee"><img src="https://github-readme-stats.vercel.app/api?username=hugokalix&show_icons=false&theme=gotham"> </a><a href="https://github.com/VariableBee"><img src="https://github-readme-streak-stats.herokuapp.com?user=variablebee&theme=gotham"></a>
+<a href="https://github.com/VariableBee"><img src="https://github-readme-stats.vercel.app/api?username=hugokalix&show_icons=false&theme=gotham"> </a><a href="https://github.com/VariableBee"><img src="https://github-readme-streak-stats.herokuapp.com?user=hugokalix&theme=gotham"></a>
 
 
 <div style="display: flex; flex-wrap: wrap; justify-content: space-between; align-items: flex-start;">
@@ -84,6 +84,8 @@ Olá 👋 Eu sou Hugo Kalixto, estudante de programação no Senai Bras
   </div>
 </div>
 <br />
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username={hugokalix}&theme=blue-green"/></p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hugokalix&show_icons=true&theme=dark&locale=en&layout=compact" alt="hugokalix" /></p>
+<div align="center">
+  <a href="https://github.com/MateusSouzaAlves">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=hugokalix&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hugokalix&layout=compact&langs_count=7&theme=dark"/>
+</div>
