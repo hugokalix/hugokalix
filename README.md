@@ -17,11 +17,6 @@
   />
 </picture>
 
-
-Generate a [gif](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.gif) or [svg](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg) image.
-
-
-
 <h2 align="center">print('hello world!')</h2>
 
 <p align="center">
