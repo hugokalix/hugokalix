@@ -29,32 +29,13 @@ Generate a [gif](https://github.com/Platane/snk/raw/output/github-contribution-g
 </p>
 
 <p> 
-Hi 👋, I'm Chris!
-A passionate Data Science student from Brazil.
-  
-- 🌱 I’m currently studying Data Science and also Computer Science at Harvard <img align="center" alt="html5" src="https://img.shields.io/badge/Edx-193A3E?style=for-the-badge&logo=edx&logoColor=white" /> 
-
-- 🔭 My dream is to one day work with IA and Machine Learning.
-<div>
-<details>
-  <summary>👨‍💻 More about me</summary>
-  
-- 📄 Know about my experiences
- 
-- 👨‍💻 All of my projects are available at [Linkedin](https://www.linkedin.com/in/christian-oliveira-925532257/)
- 
-- 💬 Ask me about **data science, data analysis, machine learning, python**
-
-- 📫 Reach me out at **oc.chris.inbox@gmail.com**
-</details>
-</p>
+Olá 👋 Eu sou Hugo Kalixto, estudante de programação no Senai Bras 
 
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UC177sCc63-aazx2T3n1LGWg)
  
- <img align="center" alt="Discord" src="https://img.shields.io/badge/
- Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/christian-oliveira-925532257/)
+
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/)
 
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/variablebee)
 
