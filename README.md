@@ -86,4 +86,4 @@ Olá 👋 Eu sou Hugo Kalixto, estudante de programação no Senai Bras
 <br />
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username={hugokalix}&theme=blue-green"/></p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hugokalix&show_icons=false&theme=dark&locale=en&layout=compact" alt="hugokalix" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hugokalix&show_icons=true&theme=dark&locale=en&layout=compact" alt="hugokalix" /></p>
